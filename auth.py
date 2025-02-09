@@ -1,4 +1,4 @@
 pref = {
-    'login': 's.burkhanov',
-    'pass': 'Seamni31Erdc!'
+    'login': 'qwe',
+    'pass': 123
 }

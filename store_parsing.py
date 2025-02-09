@@ -25,7 +25,7 @@ def write_to_db(store_list: list):
     try:
         connection = psycopg2.connect(
             user="postgres",
-            password="Seamni31",
+            password="pass",
             host="127.0.0.1",
             port="5432",
             database="postgres",
